@@ -1,0 +1,10 @@
+# Excluir ambientes virtuais
+venv-ctk/
+.venv/
+env/
+
+# Excluir arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
