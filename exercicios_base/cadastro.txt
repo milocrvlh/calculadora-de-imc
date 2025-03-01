@@ -1,0 +1,2 @@
+ventilador,200,10
+caneta,3,100
